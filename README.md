@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Svitlana Horodylova</h1>
 <h3 align="center">A passionate full Stack developer from Ukraine</h3>
 
