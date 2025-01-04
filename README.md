@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horodylova&label=Profile%20views&color=0e75b6&style=flat" alt="horodylova" /> </p>
 
-- 🔭 I’m currently working on [2Toucans]([https://www.2toucans.com/)
+- 🔭 I’m currently working on my StartUp
 
 - 🌱 I’m currently learning **TypeScript, Next, Nest**
 
