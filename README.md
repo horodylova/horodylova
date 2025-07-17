@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my StartUp
 
-- 🌱 I’m currently learning **TypeScript, Next, Nest**
+- 🌱 I’m currently learning **Make**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/svitlana-horodylova/](https://www.linkedin.com/in/svitlana-horodylova/)
 
