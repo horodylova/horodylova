@@ -17,7 +17,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/svitlana-horodylova/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a><a href="https://www.upwork.com/freelancers/~01b9d532f1ef99ca1e?viewMode=1" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Upwork_logo.png" alt="upwork" height="25" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/svitlana-horodylova/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>&nbsp;<a href="https://www.upwork.com/freelancers/~01b9d532f1ef99ca1e?viewMode=1" target="_blank"><img align="center" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="upwork" height="28" /></a></p>
 
 ---
 
