@@ -50,8 +50,4 @@
   </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horodylova&layout=compact&theme=default" alt="top languages" />
-</p>
+--
