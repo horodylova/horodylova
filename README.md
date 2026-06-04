@@ -12,7 +12,7 @@
 - 💡 Specialise in **React / Next.js · Node.js · PostgreSQL · Kendo UI · GA4 · Stripe**
 - 🌍 Based in the **UK** · Open to remote contracts & technical consulting
 - 💬 Ask me about **React, Next.js, Node.js, PostgreSQL, analytics dashboards, API integrations**
-- 📫 Reach me at **horodylova.sv@gmail.com**
+
 
 ---
 
